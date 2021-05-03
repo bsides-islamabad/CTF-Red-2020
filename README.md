@@ -34,6 +34,7 @@ The least solved challenges were:
 
 * <Get Stats>
 * <Get Stats>
+
 // add image 
 ![Solve Counts](dodain.png)
 
@@ -42,6 +43,7 @@ The top 3 players were:
 * Bilal Rizwan - 885 points
 * Semper Fi Community - 820 points
 * Osama Mahmood - 800 points
+
 // add image
 ![Scoreboard](dodain.png)
 
@@ -54,15 +56,15 @@ The top 3 players were:
 | [ALtF4](web/)                                                  | web           | 200    | X                   |
 | [X_Pass](web/)                                                 | web           | 100    | N/A                 |
 | [Kotaro](web/)                                                 | web           | 150    | N/A                 |
-| [Manipulator](web/)                                            | web           | 50     | X                |
+| [Manipulator](web/)                                            | web           | 50     | X                 |
 | [BrokenAuth](web/)                                             | web           | 100    | X               |
-| [Tornado](web/)                                                | web            | 70    | X               |
-| [ShaktimanDaDev](web/)                                         | web            | 50    | X               |
-| [HackTheAdmin](web/)                                           | web          | 100    | X                |
-| [EasyPeasy]((web/)                                             | web           | 50    | X               |
+| [Tornado](web/)                                                | web           | 70    | X               |
+| [ShaktimanDaDev](web/)                                         | web           | 50    | X               |
+| [HackTheAdmin](web/)                                           | web           | 100    | X                |
+| [EasyPeasy](web/)                                              | web           | 50    | X               |
 | [SysAdmin](web/)                                               | web           | 100    | X                 |
 | [InjectedOrg](web/)                                            | web           | 50    | X      |
-| [JuggleMuhc?]((web/)                                           | web           | 200    |X  |
+| [JuggleMuhc?](web/)                                            | web           | 200    |X  |
 | [Shocker](RCE-PrivilegeEscalation/  )                          |  RCE + Privilege Escalation          | 200    | X|
 | [A_Corp](RCE-PrivilegeEscalation/  )                           | RCE + Privilege Escalation           | 200    | X|
 | [Debugee](RCE-PrivilegeEscalation/  )                          | RCE + Privilege Escalation           | 100    | X |
@@ -90,7 +92,7 @@ Following are the official write ups.
 
 # Todo
 - [X] @dodain Write a boiler plate 
-- [X] @dodain to add the relevant images 
+- [ ] @dodain to add the relevant images 
 - [ ] All authors to add themselves in challenge authors
 - [ ] Individuals to add their challenge in the respective folder
 - [ ] Individuals to add their walkthrough link
