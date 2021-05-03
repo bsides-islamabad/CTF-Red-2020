@@ -3,11 +3,11 @@ This repo contains all the docker images along with write ups of the challenges 
 
 |Category|# of challenges|
 |:-:|:-:|
-|[|14|
+|[Web](web)|14|
 |[RCE Privilege Escalation](RCEPrivilegeEscalation/)|3|
-|[Cloud](Cloud/)|3|
-|[Binary](Binary/)|1|
-|[Cryptography](Cryptography/)|1|
+|[Cloud](cloud/)|3|
+|[Binary](binary/)|1|
+|[Cryptography](cryptography/)|1|
 
 
 
