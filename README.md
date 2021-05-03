@@ -34,16 +34,16 @@ The least solved challenges were:
 
 * <Get Stats>
 * <Get Stats>
-
-![Solve Counts](solves.png)
+// add image 
+![Solve Counts](dodain.png)
 
 The top 3 players were:
 
 * Bilal Rizwan - 885 points
 * Semper Fi Community - 820 points
 * Osama Mahmood - 800 points
-
-![Scoreboard](scoreboard.png)
+// add image
+![Scoreboard](dodain.png)
 
 ## Challenges
 
