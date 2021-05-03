@@ -20,10 +20,9 @@ Challenge authors:
 
 The challenge ended with:
 
-* 72 teams registered
-* 135 individual players
-* 158 flags submitted
-* Every single challenge solved
+* 312 players registered
+* 86 flags submitted
+* ra1n, X & X were unsolved
 
 The most solved challenges were:
 
