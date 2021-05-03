@@ -88,3 +88,9 @@ Following are the official write ups.
 ## Liscense 
 
 
+# Todo
+- [X] @dodain Write a boiler plate 
+- [X] @dodain to add the relevant images 
+- [ ] All authors to add themselves in challenge authors
+- [ ] Individuals to add their challenge in the respective folder
+- [ ] Individuals to add their walkthrough link
