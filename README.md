@@ -49,8 +49,8 @@ The top 3 players were:
 ## Challenges
 
 | Challenge Name                                                 | Category      | Points | Port(s)             | Solution |
-| -------------------------------------------------------------- | ------------- | ------ | ------------------- | |
-| [Remain](web/)                                                 | web           | 100    | X                   | |
+| -------------------------------------------------------------- | ------------- | ------ | ------------------- |......... |
+| [Remain](web/)                                                 | web           | 100    | X                   | Test|
 | [SQLViz](web/)                                                 | web           | 200    | X                   | |
 | [ALtF4](web/)                                                  | web           | 200    | X                   | |
 | [X_Pass](web/)                                                 | web           | 100    | N/A                 | |
@@ -67,9 +67,9 @@ The top 3 players were:
 | [Shocker](RCE-PrivilegeEscalation/  )                          |  RCE + Privilege Escalation          | 200    | X| |
 | [A_Corp](RCE-PrivilegeEscalation/  )                           | RCE + Privilege Escalation           | 200    | X|  |
 | [Debugee](RCE-PrivilegeEscalation/  )                          | RCE + Privilege Escalation           | 100    | X |  |
-| [Bucket](cloud/)                                               |Cloud          | 100    | N/A|                  | |
-| [AccessDenied](cloud/)                                         | Cloud         | 100    | N/A|                  | |
-| [Ra1n](cloud/)                                                 | Cloud          | 250    |N/A|                  | |
+| [Bucket](cloud/)                                               |Cloud          | 100    | N/A|                  | 
+| [AccessDenied](cloud/)                                         | Cloud         | 100    | N/A|                  | 
+| [Ra1n](cloud/)                                                 | Cloud          | 250    |N/A|                  | 
 
 ## Local Deployment
 
