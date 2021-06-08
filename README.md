@@ -48,28 +48,28 @@ The top 3 players were:
 
 ## Challenges
 
-| Challenge Name                                                 | Category      | Points | Port(s)             |
-| -------------------------------------------------------------- | ------------- | ------ | ------------------- |
-| [Remain](web/)                                                 | web           | 100    | X                   |
-| [SQLViz](web/)                                                 | web           | 200    | X                   |
-| [ALtF4](web/)                                                  | web           | 200    | X                   |
-| [X_Pass](web/)                                                 | web           | 100    | N/A                 |
-| [Kotaro](web/)                                                 | web           | 150    | N/A                 |
-| [Manipulator](web/)                                            | web           | 50     | X                 |
-| [BrokenAuth](web/)                                             | web           | 100    | X               |
-| [Tornado](web/)                                                | web           | 70    | X               |
-| [ShaktimanDaDev](web/)                                         | web           | 50    | X               |
-| [HackTheAdmin](web/)                                           | web           | 100    | X                |
-| [EasyPeasy](web/)                                              | web           | 50    | X               |
-| [SysAdmin](web/)                                               | web           | 100    | X                 |
-| [InjectedOrg](web/)                                            | web           | 50    | X      |
-| [JuggleMuhc?](web/)                                            | web           | 200    |X  |
-| [Shocker](RCE-PrivilegeEscalation/  )                          |  RCE + Privilege Escalation          | 200    | X|
-| [A_Corp](RCE-PrivilegeEscalation/  )                           | RCE + Privilege Escalation           | 200    | X|
-| [Debugee](RCE-PrivilegeEscalation/  )                          | RCE + Privilege Escalation           | 100    | X |
-| [Bucket](cloud/)                                               |Cloud          | 100    | N/A|                  |
-| [AccessDenied](cloud/)                                         | Cloud         | 100    | N/A|                  |
-| [Ra1n](cloud/)                                                 | Cloud          | 250    |N/A|                  |
+| Challenge Name                                                 | Category      | Points | Port(s)             | Solution |
+| -------------------------------------------------------------- | ------------- | ------ | ------------------- | |
+| [Remain](web/)                                                 | web           | 100    | X                   | |
+| [SQLViz](web/)                                                 | web           | 200    | X                   | |
+| [ALtF4](web/)                                                  | web           | 200    | X                   | |
+| [X_Pass](web/)                                                 | web           | 100    | N/A                 | |
+| [Kotaro](web/)                                                 | web           | 150    | N/A                 | |
+| [Manipulator](web/)                                            | web           | 50     | X                 | |
+| [BrokenAuth](web/)                                             | web           | 100    | X               | |
+| [Tornado](web/)                                                | web           | 70    | X               | |
+| [ShaktimanDaDev](web/)                                         | web           | 50    | X               | |
+| [HackTheAdmin](web/)                                           | web           | 100    | X                | |
+| [EasyPeasy](web/)                                              | web           | 50    | X               | |
+| [SysAdmin](web/)                                               | web           | 100    | X                  ||
+| [InjectedOrg](web/)                                            | web           | 50    | X      | |
+| [JuggleMuhc?](web/)                                            | web           | 200    |X  | |
+| [Shocker](RCE-PrivilegeEscalation/  )                          |  RCE + Privilege Escalation          | 200    | X| |
+| [A_Corp](RCE-PrivilegeEscalation/  )                           | RCE + Privilege Escalation           | 200    | X|  |
+| [Debugee](RCE-PrivilegeEscalation/  )                          | RCE + Privilege Escalation           | 100    | X |  |
+| [Bucket](cloud/)                                               |Cloud          | 100    | N/A|                  | |
+| [AccessDenied](cloud/)                                         | Cloud         | 100    | N/A|                  | |
+| [Ra1n](cloud/)                                                 | Cloud          | 250    |N/A|                  | |
 
 ## Local Deployment
 
